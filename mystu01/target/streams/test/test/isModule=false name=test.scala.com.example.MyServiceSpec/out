@@ -1,0 +1,11 @@
+[info] MyServiceSpec
+[info] 
+[info] MyService should
+[info] + return a greeting for GET requests to the root path
+[info] + leave GET requests to other paths unhandled
+[info] + return a MethodNotAllowed error for PUT requests to the root path
+[info] 
+[info] 
+[info] Total for specification MyServiceSpec
+[info] Finished in 781 ms
+[info] 3 examples, 0 failure, 0 error
